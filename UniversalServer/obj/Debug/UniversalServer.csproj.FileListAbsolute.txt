@@ -134,3 +134,20 @@ D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\ob
 D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
 D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
 D:\_Pool\SAE\LF05\LS05.2 Daten in Datenbanken\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\bin\Debug\template.html
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe.config
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\bin\Debug\UniversalServer.exe
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\bin\Debug\UniversalServer.pdb
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.AssemblyReference.cache
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\MainWindow.baml
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\MainWindow.g.cs
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\App.g.cs
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer_Content.g.cs
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer_MarkupCompile.cache
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.g.resources
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.Properties.Resources.resources
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.GenerateResource.cache
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CoreCompileInputs.cache
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.csproj.CopyComplete
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.exe
+C:\Users\sadriu\Desktop\Contacts\BFK-S\UniversalServer\UniversalServer\obj\Debug\UniversalServer.pdb
